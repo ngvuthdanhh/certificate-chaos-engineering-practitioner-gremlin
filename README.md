@@ -68,7 +68,7 @@ The course provides a comprehensive introduction to **chaos engineering principl
 ---
 
 ## 📜 Certificate
-🎓 [Chaos Engineering Practitioner – Gremlin Certificate](./4d0d145e-d6bd-4194-85a8-d15aa1556d45.pdf)  
+🎓 [Chaos Engineering Practitioner – Gremlin Certificate](./cert/4d0d145e-d6bd-4194-85a8-d15aa1556d45.pdf)
 This certificate confirms the successful completion of the **Chaos Engineering Practitioner – Gremlin** program, covering chaos engineering principles, hypothesis design, failure injection methods, observability, blast radius management, resilience patterns, and security & compliance in large-scale systems.
 
 ---
